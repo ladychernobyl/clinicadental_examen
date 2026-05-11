@@ -1,0 +1,56 @@
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    background-color: #eef7f8;
+}
+
+.top {
+    background-color: #008c95;
+    color: white;
+    text-align: center;
+    padding: 28px;
+}
+
+.navegacion {
+    background-color: #005f66;
+    padding: 12px;
+    text-align: center;
+}
+
+.navegacion a {
+    color: white;
+    text-decoration: none;
+    margin: 0 14px;
+}
+
+.zona-central {
+    display: flex;
+    width: 88%;
+    margin: 25px auto;
+    gap: 22px;
+}
+
+.principal {
+    width: 70%;
+}
+
+.bloque {
+    background-color: white;
+    padding: 18px;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+
+.info {
+    width: 30%;
+    background-color: white;
+    padding: 18px;
+    border-radius: 8px;
+}
+
+.final {
+    background-color: #008c95;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
